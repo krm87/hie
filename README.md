@@ -10,3 +10,5 @@ Hlint
 Intended to use with vscode devcontainers
 
 Updated from and inspired by: https://github.com/dogwith1eye/vscode-remote-try-haskell-ide
+
+Put .devcontainer folder in your vscode project folder
